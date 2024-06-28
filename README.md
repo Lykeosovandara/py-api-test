@@ -20,5 +20,5 @@ Change sample.env to env
 
 ## RUN
 ```
-pytest
+pytest -s
 ```
